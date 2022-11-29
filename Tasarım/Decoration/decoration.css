@@ -1,0 +1,72 @@
+body {
+    padding: 0;
+    margin: 0;
+}
+
+.articale {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    position: relative;
+    top: 100px;
+    left: 30px;
+}
+
+.articalee {
+    color: rgb(201, 195, 195);
+    position: relative;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    top: 130px;
+    left: 30px;
+}
+
+.logo {
+    position: relative;
+    top: 150px;
+    left: 20px;
+}
+
+.tx {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    position: relative;
+    top: 90px;
+    left: 110px;
+}
+
+.txx {
+    color: rgb(201, 195, 195);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    position: relative;
+    top: 90px;
+    left: 110px;
+}
+
+.logoo {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    position: relative;
+    top: 90px;
+    right: 9px;
+}
+
+.txxx {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    position: relative;
+    top: 34px;
+    left: 110px;
+}
+
+.logooo {
+    color: rgb(201, 195, 195);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    position: relative;
+    top: 40px;
+    left: 110px;
+}
+
+.foto {
+    position: relative;
+    left: 770px;
+    bottom: 750px;
+    clear:left
+}
+
+/*parfum.html*/
+

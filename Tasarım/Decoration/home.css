@@ -1,0 +1,53 @@
+body {
+    padding: 0;
+    margin: 0;
+}
+
+.design {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    position: relative;
+    top: 130px;
+    left: 1000px;
+}
+
+.tx {
+    position: relative;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(201, 195, 195);
+    left: 900px;
+    top: 150px;
+}
+
+.foto {
+    position: relative;
+    left: 880px;
+    bottom: 76px;
+}
+
+.onfoto {
+    position: relative;
+    left: 200px;
+    bottom: 245px;
+}
+
+.txı {
+    position: relative;
+    left: 710px;
+    bottom: 520px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+.forget {
+    position: relative;
+    left: 890px;
+    bottom: 585px;
+}
+
+.hd {
+    position: relative;
+    left: 710px;
+    bottom: 585px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(201, 195, 195);
+}
